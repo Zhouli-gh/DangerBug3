@@ -32,5 +32,7 @@ public class Bug
         Console.WriteLine($"Kan fly: {KanFly}");
         Console.WriteLine(Fly());
     }
+
+    
     
 }
